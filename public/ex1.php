@@ -8,7 +8,7 @@ echo ' and a ';
 echo $number2;
 echo '. ';
 
-if ($number == 6 && $number2 == 6){
+if ($number == 6 || $number2 == 6){
     echo 'You win';
 }
 else {
