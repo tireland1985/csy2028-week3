@@ -5,7 +5,9 @@ if ($number == 6) {
     echo 'You rolled a 6, you win!';
 }
 else {
-    echo 'You didn\'t roll a 6, you lose';
+    echo 'You rolled a ';
+    echo $number;
+    echo ', you lose.';
 }
 
 ?>
