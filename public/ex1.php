@@ -9,5 +9,5 @@ else {
     echo $number;
     echo ', you lose.';
 }
-
+echo '<a href="ex1.php"> Roll again</a>';
 ?>
