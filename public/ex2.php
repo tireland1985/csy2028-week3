@@ -1,4 +1,5 @@
 <?php
+//use a loop to create an unordered list numbered from 1 - 10
 
 echo '<ul>';
 
